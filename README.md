@@ -15,3 +15,5 @@ This giphy demonstrates the same table and prompt when the buyer has enough inve
 This giphy demonstrates the table decreasing by the amount requested. 
 
 <img src="assets/images/table-adjusted.gif">
+
+[comment]: <> (https://kyann831.github.io/Bootstrap-Portfolio/)
